@@ -1,5 +1,7 @@
 {
   "name": "benevolcan2023",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }
