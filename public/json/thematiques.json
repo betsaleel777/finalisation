@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "texte": "la lutte contre la déforestation",
+        "icon": "plante",
+        "image": "/images/logo-anti-deforestation.png",
+        "content": "Promouvoir la lutte contre la déforestation lors d'une compétition sportive est une excellente idée pour sensibiliser les jeunes à cette problématique. La compétition sportive devient une plateforme pour promouvoir la sensibilisation et l'action en faveur de la préservation des forêts, permettant aux jeunes de comprendre leur rôle dans la lutte contre la déforestation.",
+        "rules": [
+            {
+                "id": 1,
+                "title": "la Côte d’Ivoire n’est plus un pays forestier",
+                "content": "la Côte d’ivoire a perdu plus 80% de son couvert forestier depuis les indépendances à ce jour, passant de 16 millions d’ha en 1960 à moins de 3 millions d’ha aujourd’hui, une des dégradations les plus rapides au monde. Le reboisement devient une urgence nationale et il faut s’y engager !!!"
+            },
+            {
+                "id": 2,
+                "title": "le rôle crucial des forêts dans l’adaptation au changement climatique",
+                "content": "Soulignez le rôle essentiel des forêts dans la régulation du climat. Les arbres absorbent le dioxyde de carbone (CO2) de l'atmosphère et libèrent de l'oxygène, contribuant ainsi à atténuer les changements climatiques."
+            },
+            {
+                "id": 3,
+                "title": "les menaces sur la biodiversité menacée et les conséquences sur les communautés",
+                "content": "Expliquez aux jeunes que la déforestation entraîne la perte de biodiversité, car de nombreuses espèces dépendent des forêts pour leur habitat. La disparition des forêts met en danger la survie de nombreuses plantes et animaux. Montrez-leur comment la déforestation impacte négativement les communautés autochtones qui dépendent des forêts pour leur mode de vie, leur culture et leurs ressources. Informez-les sur le lien entre la déforestation et l'érosion des sols. Les arbres jouent un rôle clé dans la stabilisation du sol, et sans eux, les risques d'inondations, de glissements de terrain et de dégradation des terres augmentent. Sensibilisez-les aux conséquences de la déforestation sur les ressources en eau douce. Les forêts agissent comme des régulateurs naturels, contribuant à maintenir l'équilibre hydrique dans les écosystèmes."
+            },
+            {
+                "id": 4,
+                "title": "Promouvoir la réduction de la production de papier et de bois et aider à lutter contre la commerce illégal du bois",
+                "content": "Expliquez la relation entre la déforestation et la production de papier et de bois. Encouragez les jeunes à faire des choix éclairés en optant pour des produits certifiés ou en privilégiant des alternatives durables. Informez-les sur le commerce illégal du bois et ses liens avec la déforestation. Encouragez-les à soutenir des initiatives visant à lutter contre le trafic illégal de bois. Encouragez les jeunes à partager leurs connaissances, à sensibiliser leur entourage et à participer à des projets éducatifs axés sur la protection des forêts."
+            },
+            {
+                "id": 5,
+                "title": "S’engager pour la reforestation",
+                "content": "Mettez en avant l'importance de la reforestation pour restaurer les zones déboisées. Encouragez les jeunes à participer à des opérations de planting organisées par le Abidjan Legacy Programme (ALP) partenaire du programme de bénévoles à soutenir/participer les initiatives de reboisement communautaire."
+            },
+            {
+                "id": 6,
+                "title": "Réduire l’utilisation du bois de chauffe et du charbon dans les pratiques domestiques y compris pendant la CAN",
+                "content": "Favorisez l'utilisation des énergies renouvelables et autres gaz pour les besoins domestqiues."
+            },
+            {
+                "id": 7,
+                "title": "Zone de reboisement",
+                "content": "Créez des zones spéciales dédiée à la sensibilisation à la lutte contre la déforestation. Les participants pourraient planter des arbres ou contribuer à des projets de reforestation en lien avec l'événement."
+            },
+            {
+                "id": 8,
+                "title": "Promouvoir la protection des aires protégées",
+                "content": "le pays dispose de plusieurs parcs nationaux, réserves et forêts classées qui contribuent à préserver la forêt. Rappeler que la protection de ces aires contribue à préserver la biodiversité et à conserver le couvert forestier national."
+            },
+            {
+                "id": 9,
+                "title": "Promouvoir la communication sans papier",
+                "content": "Favorisez la communication électronique plutôt que les supports papier pour les annonces, les programmes et les résultats de l'événement, réduisant ainsi la demande de papier issu de la déforestation."
+            },
+            {
+                "id": 10,
+                "title": "S’engager avec la communauté pour la promotion de la reforestation même après la CAN",
+                "content": "Encouragez les participants à s'engager dans des projets communautaires de préservation des forêts après la compétition. Cela pourrait inclure des activités de sensibilisation, de reforestation ou de participation à des initiatives locales de conservation des écosystèmes forestiers."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "texte": "la lutte contre le terrorisme",
+        "icon": "terrorisme",
+        "image": "/images/logo-peace-message.png",
+        "content": "La promotion de la lutte contre le terrorisme lors d'une compétition sportive peut être une approche innovante pour sensibiliser les jeunes à cette problématique. La compétition sportive devient une plateforme non seulement pour l'excellence athlétique mais aussi pour la promotion des valeurs de paix, de tolérance et d'inclusion, aidant ainsi à sensibiliser les jeunes et à renforcer leur engagement dans la lutte contre le terrorisme.",
+        "rules": [
+            {
+                "id": 1,
+                "title": "Lutter contre la pauvreté, prévenir les conflits: atténuer les causes du terrorisme",
+                "content": "Expliquez aux jeunes les multiples causes du terrorisme, telles que la pauvreté, la marginalisation, les conflits communautaires et religieux, et encouragez-les à approfondir leur compréhension de ces problèmes pour mieux les résoudre."
+            },
+            {
+                "id": 2,
+                "title": "Promouvoir la tolérance et de la gestion pacifique des conflits",
+                "content": "Insistez sur l'importance de la tolérance et du respect envers les différences culturelles, religieuses et ethniques. Encouragez les jeunes à s'engager dans la gestion pacifique des conflits ainsi que toute activité qui favorise la compréhension mutuelle."
+            },
+            {
+                "id": 3,
+                "title": "Attention aux manipulations et recrutement de jeunes sur l’internet",
+                "content": "Informez-les sur les tactiques de recrutement en ligne utilisées par les groupes d’extrémisme violent et terroristes. Encouragez la vigilance et la sensibilisation aux dangers des discours extrémistes sur Internet."
+            },
+            {
+                "id": 4,
+                "title": "Respect des droits de l'homme",
+                "content": "Mettez en avant l'importance du respect des droits de l'homme dans la prévention du terrorisme. Les jeunes doivent comprendre que le recours à la violence va à l'encontre des principes fondamentaux de la dignité humaine. Ils doivent apprendre à échanger sur leurs croyances et apprendre à respecter les convictions d'autrui."
+            },
+            {
+                "id": 5,
+                "title": "S’engager dans des activités citoyennes et dans des projets positifs",
+                "content": "Encouragez les jeunes à s'impliquer dans des projets positifs qui renforcent la communauté, promeuvent la paix et fournissent des alternatives constructives aux influences négatives. Encouragez les jeunes à développer des compétences qui les aident à contribuer positivement à la société et à s'impliquer dans leur communauté en tant que citoyens responsables. La participation active peut aider à prévenir l'aliénation et le désir de recourir à la violence comme moyen de résolution des conflits."
+            },
+            {
+                "id": 6,
+                "title": "Agir en faiseurs de paix et en pacifiste même dans des situations de tensions-conflits",
+                "content": "utiliser soi-même la non-violence pour régler les potentielles tensions que peuvent générer ce genre de rassemblement. Recourir aux symboles de paix et d'unité dans l'événement, tels que des rubans colorés ou des messages de paix, pour rappeler aux participants l'importance de la solidarité, de l'esprit sportif et du fair-play."
+            },
+            {
+                "id": 7,
+                "title": "S’engager dans des activités communautaire",
+                "content": "Encouragez les jeunes à s'impliquer dans des projets communautaires de prévention du terrorisme même après la compétition. Cela pourrait inclure des actions de sensibilisation et d'éducation dans leur communauté."
+            },
+            {
+                "id": 8,
+                "title": "Se former à être résilient et à ne pas succomber aux tentations",
+                "content": "Offrez des ateliers de formation à la résilience pour aider les jeunes à faire face aux défis de la vie et à développer des compétences qui les rendent moins vulnérables à l'influence de l'extrémisme violent."
+            },
+            {
+                "id": 9,
+                "title": "Continuer la sensibilisation autour de soi même après la compétition",
+                "content": "Planifiez des campagnes de sensibilisation continues après l'événement, utilisant les médias sociaux et d'autres canaux pour maintenir l'engagement des jeunes dans la lutte contre le terrorisme."
+            },
+            {
+                "id": 10,
+                "title": "Se soutenir et rechercher du soutien psychologique",
+                "content": "Soulignez l'importance du soutien psychologique pour ceux qui pourraient être vulnérables à la radicalisation, notamment par les pairs. Encouragez l'ouverture sur les problèmes mentaux et la recherche d'aide professionnelle lorsque nécessaire."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "texte": "la lutte contre la pollution plastique",
+        "icon": "biohazard",
+        "image": "/images/logo-zero-plastique.png",
+        "content": "Promouvoir la lutte contre la pollution plastique chez les jeunes lors d'une compétition sportive est une excellente initiative. En intégrant des règles dans le cadre de la compétition sportive que représente la CAN 2023, on peut créer une sensibilisation positive et encourager les jeunes à adopter des comportements respectueux de l'environnement tout en promouvant une communauté sportive responsable.",
+        "rules": [
+            {
+                "id": 1,
+                "title": "Rappeler que l’usage excessif du plastique est un problème mondial et présenter les alternatives écologiques",
+                "content": "Faites-leur prendre conscience que la pollution plastique est un problème mondial qui nécessite une action collective. Montrez-leur des exemples de communautés et de jeunes du monde entier qui œuvrent pour réduire leur empreinte plastique. Présentez-leur des alternatives écologiques aux produits en plastique, comme les sacs réutilisables, les emballages biodégradables et les articles de toilette sans plastique. Encouragez-les à explorer ces options dans leur vie quotidienne."
+            },
+            {
+                "id": 2,
+                "title": "Rappeler que l’usage excessif du plastique est un problème mondial et présenter les alternatives écologiques",
+                "content": "Faites-leur prendre conscience que la pollution plastique est un problème mondial qui nécessite une action collective. Montrez-leur des exemples de communautés et de jeunes du monde entier qui œuvrent pour réduire leur empreinte plastique. Présentez-leur des alternatives écologiques aux produits en plastique, comme les sacs réutilisables, les emballages biodégradables et les articles de toilette sans plastique. Encouragez-les à explorer ces options dans leur vie quotidienne."
+            },
+            {
+                "id": 3,
+                "title": "Pas de plastique à usage unique sur le terrain et remplacer les bouteilles en plastiques à usage unique par des gourdes réutilisables",
+                "content": "Encouragez les participants à éviter l'utilisation de bouteilles en plastique jetables, de couverts et d'assiettes en plastique pendant la compétition. Sensibilisez-les sur les conséquences de la consommation excessive d'eau en bouteille en plastique. Encouragez l'utilisation de gourdes réutilisables pour réduire la production de déchets et les aider à comprendre le rôle de chaque individu dans la lutte contre la pollution plastique"
+            },
+            {
+                "id": 4,
+                "title": "Ramasser et trier les déchets",
+                "content": "Organisez des opérations de ramassage de déchets avant, pendant et après les matchs dans les stades, autour des stades et dans les villages CAN. Encouragez les participants à participer en ramassant les déchets plastiques sur le terrain. Mettez en place des zones de tri sélectif sur le site de la compétition, avec des bacs distincts pour le plastique, le papier, le verre et les déchets organiques."
+            },
+            {
+                "id": 5,
+                "title": "Utiliser des matériaux recyclables et favoriser les communications sans plastique",
+                "content": "Encouragez l'utilisation de matériaux et d'emballages recyclables pour les équipements sportifs, les banderoles et les affiches promotionnelles. Favorisez les communications sans plastique en utilisant des supports électroniques pour les informations, les résultats et les programmes de l'événement."
+            },
+            {
+                "id": 5,
+                "title": "Sensibiliser et faites de l’éducation autour de vous",
+                "content": "Intégrez des activités éducatives sur la pollution plastique dans le programme de la compétition. Des ateliers, des conférences ou des présentations peuvent sensibiliser les participants à l'impact du plastique sur l'environnement."
+            },
+            {
+                "id": 6,
+                "title": "Préserver la faune marine",
+                "content": "Expliquez aux jeunes comment la pollution plastique affecte les océans, menaçant la vie marine. Des animaux comme les tortues, les oiseaux et les poissons peuvent ingérer des déchets plastiques, ce qui peut entraîner des blessures, des maladies et même la mort."
+            },
+            {
+                "id": 7,
+                "title": "Le plastique, c’est au moins 10 ans de pollution",
+                "content": "Informez-les sur la durée de décomposition du plastique, qui peut s'étendre sur des centaines d'années. Cela signifie que chaque morceau de plastique que nous utilisons aujourd'hui aura un impact sur l'environnement pendant une période extrêmement longue."
+            },
+            {
+                "id": 8,
+                "title": "Les microplastiques contaminent les poissons et vos enfants",
+                "content": "Parlez-leur des microplastiques, de minuscules particules de plastique qui se forment à partir de la dégradation des déchets plastiques plus importants. Ces particules peuvent contaminer les océans et pénétrer la chaîne alimentaire, affectant finalement la santé humaine."
+            },
+            {
+                "id": 9,
+                "title": "Sensibiliser et promouvoir les initiatives locales",
+                "content": "Parlez-leur des microplastiques, de minuscules particules de plastique qui se forment à partir de la dégradation des déchets plastiques plus importants. Ces particules peuvent contaminer les océans et pénétrer la chaîne alimentaire, affectant finalement la santé humaine."
+            },
+            {
+                "id": 10,
+                "title": "Sensibiliser et promouvoir les initiatives locales",
+                "content": "Rappelez-leur que chaque action individuelle compte. Encouragez-les à adopter des habitudes de vie plus durables, à sensibiliser leur entourage et à devenir des défenseurs actifs de la protection de l'environnement."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "texte": "la lutte contre les violences basées sur le genre (VBG)",
+        "icon": "genre",
+        "image": "/images/logo-zero-vbg.png",
+        "content": "Pour informer les jeunes sur les Violences Basées sur le Genre (VBG) ainsi que sur leurs droits sexuels et reproductifs, il est essentiel de fournir des informations claires, accessibles et adaptées à leur niveau de compréhension. La lutte contre les Violences Basées sur le Genre (VBG) est cruciale pour promouvoir l'égalité, la sécurité et le bien-être des jeunes.",
+        "rules": [
+            {
+                "id": 1,
+                "title": "VBG = Violences Basées sur le Genre",
+                "content": "Elles sont parfois appelées violences sexistes. Des actes nuisibles perpétrés sur une personne contre sa volonté, portant atteinte au bien-être physique, psychologique ou relationnel d'une personne et fondé sur les différences entre homme et femme dues aux attributs sociaux. Il s’agit généralement de tous les “actes de violence dirigés plus souvent contre le sexe féminin, et causant ou pouvant causer aux femmes un préjudice ou des souffrances physiques, sexuelles ou psychologiques, y compris la menace de tels actes, la contrainte ou la privation arbitraire de liberté, que ce soit dans la vie publique ou dans la vie privée”."
+            },
+            {
+                "id": 2,
+                "title": "Exemples de VBG pour aider à la sensibilisation",
+                "content": "Présenter les différents types de VBG, en illustrant des exemples concrets afin de sensibiliser les jeunes sur la diversité de ces violences.Expliquer que les VBG englobe la violence physique (coups, blessures, fractures, égratignures, bousculades, bousculements), la violence psychologique  (insultes, humiliations, dévaluation sans que la victime ne se considère victime d'une agression, menaces - y compris menace d'agression physique contre la victime ou ses proches – mépris, violence en ligne), la violence sexuelle (viols avec ou sans pénétration, prostitution forcée, conception forcée ou avortement, mutilations génitales, harcèlement sexuel ou attouchements non désirés, etc.), la violence économique, (réduction et privation de ressources économiques ou d'opportunités), la violence du patrimoine (usurpation ou destruction d'objets, de biens et de biens), la violence sociale et la violence par procuration"
+            },
+            {
+                "id": 3,
+                "title": "Effets des VBG",
+                "content": "Informer sur les conséquences physiques, émotionnelles et psychologiques des VBG sur les victimes, mettant en évidence l'importance de chercher de l'aide."
+            },
+            {
+                "id": 4,
+                "title": "Éducation à l'égalité des sexes",
+                "content": "Encourager l'éducation qui promeut l'égalité des sexes, la compréhension mutuelle et le respect entre les genres dès le plus jeune âge."
+            },
+            {
+                "id": 5,
+                "title": "Avoir le consentement dans toutes les relations",
+                "content": "Définir le consentement et expliquer son importance dans toutes les relations, en mettant l'accent sur le fait qu'il doit être volontaire, informé et révocable."
+            },
+            {
+                "id": 6,
+                "title": "Droits sexuels et reproductifs",
+                "content": "Énoncer clairement les droits sexuels et reproductifs des jeunes, y compris le droit à l'éducation sexuelle, à la contraception, à l'avortement sûr et à des relations sexuelles consensuelles."
+            },
+            {
+                "id": 7,
+                "title": "Éducation sexuelle et accès aux services de santé",
+                "content": "Promouvoir l'éducation sexuelle complète, abordant des sujets tels que la santé reproductive, la prévention des infections sexuellement transmissibles et les relations saines. Informer sur l'accès aux services de santé sexuelle et reproductive, y compris la contraception, les dépistages réguliers, et les soins en cas de VBG"
+            },
+            {
+                "id": 8,
+                "title": "Signalement des VBG et lutte contre la stigmatisation",
+                "content": "Expliquer comment signaler les cas de VBG en toute sécurité, en mettant en lumière les organismes de soutien et les lignes d'assistance disponibles. Sensibiliser sur l'importance de lutter contre la stigmatisation associée aux victimes de VBG, encourageant un environnement favorable à l'expression de leurs besoins"
+            },
+            {
+                "id": 9,
+                "title": "Ressources de soutien et soutien entre pairs",
+                "content": "Fournir des informations sur les organisations locales et internationales, les centres d'accueil, les lignes d'assistance et les groupes de soutien disponibles pour les jeunes victimes de VBG. Encourager la création de réseaux de soutien entre pairs afin que les jeunes puissent partager leurs expériences, trouver du soutien et s'informer mutuellement sur les VBG"
+            },
+            {
+                "id": 10,
+                "title": "Promotion de la diversité, de l'inclusion et mobilisation communautaire",
+                "content": "Encourager la tolérance, la diversité et l'inclusion, tout en luttant contre les stéréotypes de genre qui peuvent contribuer aux VBG. Encourager la participation active des jeunes dans des initiatives communautaires visant à éliminer les VBG, en renforçant la solidarité et en construisant des environnements sûrs et respectueux."
+            }
+        ]
+    }
+]

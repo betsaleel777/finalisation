@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Le harcèlement, c’est une violence fondée sur ...",
+        "composant": "HarcelementStandardRule",
+        "content": "Le harcèlement, c’est une violence fondée sur des rapports de domination, c’est le fait d'imposer à une personne,de façon répétée, des propos ou comportements à connotation sexuelle, dégradants ou humiliants."
+    },
+    {
+        "id": 2,
+        "title": "Le harcèlement peut prendre plusieurs formes ...",
+        "composant": "HarcelementStandardRule",
+        "content": "Le harcèlement peut prendre plusieurs formes et se manifester dans différentes situations, tels que le harcèlement sexuel, harcèlement professionnel, harcèlement moral, harcèlement de rue et le cyber harcèlement."
+    },
+    {
+        "id": 3,
+        "title": "En Côte d'Ivoire, le harcèlement sexuel et le ...",
+        "composant": "HarcelementStandardRule",
+        "content": "En Côte d'Ivoire, le harcèlement sexuel et le harcèlement moral sont punis par la loi dans le but de protéger les droits humains et de favoriser l'émergence d'une société plus équitable et respectueuse. Les sanctions prévues vont de 1 à 5 ans d'emprisonnement, accompagnées d'une amende qui varie entre 360 000 et 5 000 000 de francs CFA, selon le contexte et le type de harcèlement."
+    },
+    {
+        "id": 4,
+        "composant": "HarcelementTestimonyRule",
+        "title": "Si tu es témoin de harcèlement et que tu te ...",
+        "content": ""
+    },
+    {
+        "id": 5,
+        "title": "Se taire, c’est laisser faire: Il est possible ...",
+        "composant": "HarcelementDenonceRule",
+        "content": ""
+    }
+]
