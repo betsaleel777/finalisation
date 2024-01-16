@@ -13,7 +13,7 @@ const props = defineProps<{ thematique: Thematique }>();
     </div>
     <ion-card-content>
       <p class="ion-text-justify">
-        <ion-text>
+        <ion-text class="read-font">
           {{ props.thematique.content }}
         </ion-text>
       </p>
@@ -30,6 +30,9 @@ const props = defineProps<{ thematique: Thematique }>();
 </template>
 
 <style scoped>
+.read-font {
+  font-family: "Merriweather";
+}
 ion-text {
   font-size: larger;
 }
@@ -37,6 +40,8 @@ ion-label {
   font-size: large;
   text-decoration: underline;
   text-transform: uppercase;
+  font-family: "Inter";
+  font-weight: 500;
 }
 ion-button {
   width: 95%;

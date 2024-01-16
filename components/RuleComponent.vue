@@ -14,15 +14,21 @@ const thematique = useThematique();
   <ion-card color="light" class="carte">
     <ion-card-content class="card-content">
       <p class="ion-text-justify rule-text">
-        <ion-text>
+        <ion-text class="read-font">
           {{ props.rule.content }}
         </ion-text>
       </p>
     </ion-card-content>
   </ion-card>
+  <div class="thematique-image">
+    <ion-img :src="thematique.image"></ion-img>
+  </div>
 </template>
 
 <style scoped>
+.read-font {
+  font-family: "Merriweather";
+}
 .thematique-image {
   display: flex;
   align-items: center;
@@ -50,6 +56,8 @@ ion-card {
 .titre {
   margin-bottom: 0px;
   padding-inline: 15px;
+  font-family: "Poppins";
+  font-weight: 500;
 }
 .rule-text {
   font-size: medium;

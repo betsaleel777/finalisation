@@ -15,4 +15,9 @@
   </ion-card>
 </template>
 
-<style scoped></style>
+<style scoped>
+ion-text {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+}
+</style>

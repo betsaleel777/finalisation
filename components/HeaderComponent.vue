@@ -25,4 +25,10 @@ useBackButton(-1, () => {
   </ion-header>
 </template>
 
-<style scoped></style>
+<style scoped>
+ion-title {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: larger;
+}
+</style>

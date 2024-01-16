@@ -4,6 +4,9 @@
 .nuxt
 .nitro
 .cache
+resources
+android
+=
 dist
 
 # Node dependencies
