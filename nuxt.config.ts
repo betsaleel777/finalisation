@@ -7,5 +7,8 @@ export default defineNuxtConfig({
     css: {
       utilities: true
     }
+  },
+  experimental: {
+    appManifest: false
   }
 })

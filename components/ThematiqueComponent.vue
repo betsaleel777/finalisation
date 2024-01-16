@@ -21,7 +21,7 @@ const props = defineProps<{ thematique: Thematique }>();
   </ion-card>
   <ion-row class="ion-justify-content-center">
     <ion-col size="5">
-      <ion-button :router-link="`/rules`" size="small" color="success">
+      <ion-button :router-link="`/thematique/regle`" size="small" color="success">
         <ion-icon color="light" :icon="ioniconsList" slot="start"> </ion-icon>
         <ion-text color="light">regles</ion-text>
       </ion-button>

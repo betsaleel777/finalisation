@@ -9,7 +9,7 @@ thematiques.value = jsonThematique.value!;
 
 <template>
   <ThematiqueCardComponent v-for="(thematique, key) in thematiques" :key="key" :thematique="thematique" />
-  <!-- <HarcelementCardComponent /> -->
+  <HarcelementCard />
 </template>
 
 <style scoped></style>

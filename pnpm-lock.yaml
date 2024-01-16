@@ -385,6 +385,14 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
+  /@capacitor/android@5.6.0(@capacitor/core@5.6.0):
+    resolution: {integrity: sha512-6O7xV6K6c8WvQzKxOe7fnhRyoVpS3TNDXy1FyfhvOvclBvu+1JddSdFvW4e4dSL60s2c00sCzNRgYhm+cn0/dQ==}
+    peerDependencies:
+      '@capacitor/core': ^5.6.0
+    dependencies:
+      '@capacitor/core': 5.6.0
+    dev: false
+
   /@capacitor/app@5.0.6(@capacitor/core@5.6.0):
     resolution: {integrity: sha512-6ZXVdnNmaYILasC/RjQw+yfTmq2ZO7Q3v5lFcDVfq3PFGnybyYQh+RstBrYri+376OmXOXxBD7E6UxBhrMzXGA==}
     peerDependencies:
@@ -427,6 +435,14 @@ packages:
     resolution: {integrity: sha512-UrMcR7p2X10ql4VLlowUuH/VckTeu0lj+RQpekxox14uxDmu5AGIFDK/iDTi8W6QZkxTJRZK6sbCjgwYgNJ7Pw==}
     peerDependencies:
       '@capacitor/core': ^5.0.0
+    dependencies:
+      '@capacitor/core': 5.6.0
+    dev: false
+
+  /@capacitor/ios@5.6.0(@capacitor/core@5.6.0):
+    resolution: {integrity: sha512-iswpOcD5us10hIF5zS4w6k/ekW0A+2pXhDV4AHOBXR4VOkOMI8QJaavgl9JvZ/NVvVNJdEN2rOKCMNh4AH08sw==}
+    peerDependencies:
+      '@capacitor/core': ^5.6.0
     dependencies:
       '@capacitor/core': 5.6.0
     dev: false
@@ -1341,8 +1357,8 @@ packages:
       - vue-tsc
     dev: true
 
-  /@nuxtjs/ionic@0.13.0:
-    resolution: {integrity: sha512-emGQormbjnREEnSNpCzDTpPeRzssWRg9SoHbNg5EoJ2/mWdPi/rfxhDLdBu2kuq2N4QWZjqCa5eMeQIVfA5SqQ==}
+  /@nuxtjs/ionic@0.12.1:
+    resolution: {integrity: sha512-Uyo3OuvHeWvUWMl2rIrPSz/9PdwAp/ssFy/EfhdIjpugcaCSKPBgqTP4F0VxT8ECJhwj6wyXh7b0cQPiUfvWbg==}
     dependencies:
       '@capacitor/cli': 5.6.0
       '@capacitor/core': 5.6.0
