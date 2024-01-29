@@ -29,7 +29,23 @@ const props = defineProps<{ thematique: Thematique }>();
   </ion-row>
   <ion-row class="ion-justify-content-center ion-margin-top">
     <ion-col size="8">
-      <ion-img src="/images/benevoles-writing.png"></ion-img>
+      <ion-img
+        v-motion
+        :initial="{
+          y: 100,
+          opacity: 0,
+        }"
+        :enter="{
+          y: 0,
+          opacity: 1,
+          transition: {
+            duration: 300,
+            type: 'keyframes',
+            ease: 'easeIn',
+          },
+        }"
+        src="/images/benevoles-writing.png"
+      ></ion-img>
     </ion-col>
   </ion-row>
 </template>

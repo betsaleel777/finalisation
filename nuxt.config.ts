@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
-  modules: ["@nuxtjs/ionic", "@nuxtjs/google-fonts"],
+  modules: ["@nuxtjs/ionic", "@nuxtjs/google-fonts", "@vueuse/motion/nuxt"],
   css: ['~/assets/css/ionic.css'],
   ionic: {
     css: {
