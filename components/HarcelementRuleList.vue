@@ -42,8 +42,14 @@ ion-item {
   font-size: larger;
   font-weight: bold;
   padding-top: 11px;
+  font-family: "Inter";
+  font-weight: 500;
 }
 ion-card {
   opacity: 0.9;
+}
+ion-text {
+  font-family: "Raleway";
+  font-weight: 500;
 }
 </style>

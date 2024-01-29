@@ -23,8 +23,13 @@ const props = defineProps<{ thematique: Thematique }>();
     <ion-col size="5">
       <ion-button :router-link="`/thematique/regle`" size="small" color="success">
         <ion-icon color="light" :icon="ioniconsList" slot="start"> </ion-icon>
-        <ion-text color="light">regles</ion-text>
+        <ion-text color="light">voir regles</ion-text>
       </ion-button>
+    </ion-col>
+  </ion-row>
+  <ion-row class="ion-justify-content-center ion-margin-top">
+    <ion-col size="8">
+      <ion-img src="/images/benevoles-writing.png"></ion-img>
     </ion-col>
   </ion-row>
 </template>
@@ -48,6 +53,8 @@ ion-button {
 }
 ion-card {
   position: relative;
+  max-height: 55vh;
+  overflow-y: auto;
 }
 .image {
   position: absolute;

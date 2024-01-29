@@ -20,7 +20,6 @@ const props = defineProps<{ rules: Rule[] }>();
 
 <style scoped>
 ion-item {
-  --color-hover: var(--ion-color-success);
   --padding: 0px;
 }
 .number {

@@ -2,6 +2,11 @@
   <LayoutComponent>
     <ion-content :fullscreen="true">
       <HarcelementRuleList :rules="rules" />
+      <ion-row class="ion-justify-content-center ion-margin-top">
+        <ion-col size="7">
+          <ion-img src="/images/benevoles-writing.png"></ion-img>
+        </ion-col>
+      </ion-row>
     </ion-content>
   </LayoutComponent>
 </template>

@@ -1,13 +1,17 @@
 <template>
   <LayoutComponent>
-    <ion-content :fullscreen="true" color="light">
-      <div class="image-top">
-        <ion-img src="/images/sprite2.png"></ion-img>
-      </div>
+    <ion-content :fullscreen="true">
       <ThematiqueListComponent />
-      <div class="image-bottom">
-        <ion-img src="/images/sprite1.png"></ion-img>
-      </div>
+      <ion-row class="ion-justify-content-center">
+        <ion-col size="10">
+          <ion-text color="dark">
+            <em>Cette application a été dévéloppée avec l'appui et la collaboration du PNUD.</em>
+          </ion-text>
+        </ion-col>
+        <ion-col size="1">
+          <ion-img class="image-pnud" src="/images/logo-pnud.png"></ion-img>
+        </ion-col>
+      </ion-row>
     </ion-content>
   </LayoutComponent>
 </template>
@@ -36,5 +40,13 @@ ion-img {
   display: flex;
   justify-content: center;
   margin-top: -3vh;
+}
+.image-pnud {
+  height: 55px;
+  width: 100%;
+}
+ion-content {
+  --background: var(--ion-color-light) url("/images/benevole-can-logo.png") no-repeat center center / cover;
+  position: relative;
 }
 </style>

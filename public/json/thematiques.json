@@ -1,24 +1,24 @@
 [
     {
         "id": 1,
-        "texte": "la lutte contre la déforestation",
+        "texte": "Lutte contre la déforestation",
         "icon": "plante",
         "image": "/images/logo-anti-deforestation.png",
         "content": "Promouvoir la lutte contre la déforestation lors d'une compétition sportive est une excellente idée pour sensibiliser les jeunes à cette problématique. La compétition sportive devient une plateforme pour promouvoir la sensibilisation et l'action en faveur de la préservation des forêts, permettant aux jeunes de comprendre leur rôle dans la lutte contre la déforestation.",
         "rules": [
             {
                 "id": 1,
-                "title": "la Côte d’Ivoire n’est plus un pays forestier",
+                "title": "Poser la question de savoir si la Côte d’Ivoire est toujours un pays forestier",
                 "content": "la Côte d’ivoire a perdu plus 80% de son couvert forestier depuis les indépendances à ce jour, passant de 16 millions d’ha en 1960 à moins de 3 millions d’ha aujourd’hui, une des dégradations les plus rapides au monde. Le reboisement devient une urgence nationale et il faut s’y engager !!!"
             },
             {
                 "id": 2,
-                "title": "le rôle crucial des forêts dans l’adaptation au changement climatique",
+                "title": "Poser la question de savoir s’il y a un lien entre « forêts » et « changement climatique »",
                 "content": "Soulignez le rôle essentiel des forêts dans la régulation du climat. Les arbres absorbent le dioxyde de carbone (CO2) de l'atmosphère et libèrent de l'oxygène, contribuant ainsi à atténuer les changements climatiques."
             },
             {
                 "id": 3,
-                "title": "les menaces sur la biodiversité menacée et les conséquences sur les communautés",
+                "title": "Informer que la disparition des forêts menacent la biodiversité et a des conséquences sur les communautés",
                 "content": "Expliquez aux jeunes que la déforestation entraîne la perte de biodiversité, car de nombreuses espèces dépendent des forêts pour leur habitat. La disparition des forêts met en danger la survie de nombreuses plantes et animaux. Montrez-leur comment la déforestation impacte négativement les communautés autochtones qui dépendent des forêts pour leur mode de vie, leur culture et leurs ressources. Informez-les sur le lien entre la déforestation et l'érosion des sols. Les arbres jouent un rôle clé dans la stabilisation du sol, et sans eux, les risques d'inondations, de glissements de terrain et de dégradation des terres augmentent. Sensibilisez-les aux conséquences de la déforestation sur les ressources en eau douce. Les forêts agissent comme des régulateurs naturels, contribuant à maintenir l'équilibre hydrique dans les écosystèmes."
             },
             {
@@ -28,7 +28,7 @@
             },
             {
                 "id": 5,
-                "title": "S’engager pour la reforestation",
+                "title": "S’engager pour la reboisement",
                 "content": "Mettez en avant l'importance de la reforestation pour restaurer les zones déboisées. Encouragez les jeunes à participer à des opérations de planting organisées par le Abidjan Legacy Programme (ALP) partenaire du programme de bénévoles à soutenir/participer les initiatives de reboisement communautaire."
             },
             {
@@ -38,12 +38,12 @@
             },
             {
                 "id": 7,
-                "title": "Zone de reboisement",
-                "content": "Créez des zones spéciales dédiée à la sensibilisation à la lutte contre la déforestation. Les participants pourraient planter des arbres ou contribuer à des projets de reforestation en lien avec l'événement."
+                "title": "Créer et protéger des zones de reboisement",
+                "content": "Créez des zones spéciales dédiée à la sensibilisation à la lutte contre la déforestation. Les participants pourraient planter des arbres ou contribuer à des projets de reforestation en lien avec l'événement.Les jeunes peuvent demander l’aide de Abidjan Legacy Programme ou du Ministère des Eaux et Forêts"
             },
             {
                 "id": 8,
-                "title": "Promouvoir la protection des aires protégées",
+                "title": "Promouvoir la protection des aires et espaces protégées",
                 "content": "le pays dispose de plusieurs parcs nationaux, réserves et forêts classées qui contribuent à préserver la forêt. Rappeler que la protection de ces aires contribue à préserver la biodiversité et à conserver le couvert forestier national."
             },
             {
@@ -60,15 +60,15 @@
     },
     {
         "id": 2,
-        "texte": "la lutte contre le terrorisme",
+        "texte": "Lutte contre l’extrémisme violent",
         "icon": "terrorisme",
         "image": "/images/logo-peace-message.png",
-        "content": "La promotion de la lutte contre le terrorisme lors d'une compétition sportive peut être une approche innovante pour sensibiliser les jeunes à cette problématique. La compétition sportive devient une plateforme non seulement pour l'excellence athlétique mais aussi pour la promotion des valeurs de paix, de tolérance et d'inclusion, aidant ainsi à sensibiliser les jeunes et à renforcer leur engagement dans la lutte contre le terrorisme.",
+        "content": "La promotion de la lutte contre l’extrémisme violent lors d'une compétition sportive peut être une approche innovante pour sensibiliser les jeunes à cette problématique. La compétition sportive devient une plateforme non seulement pour l'excellence athlétique mais aussi pour la promotion des valeurs de paix, de tolérance et d'inclusion, aidant ainsi à sensibiliser les jeunes et à renforcer leur engagement dans la lutte contre l’extrémisme violent.",
         "rules": [
             {
                 "id": 1,
-                "title": "Lutter contre la pauvreté, prévenir les conflits: atténuer les causes du terrorisme",
-                "content": "Expliquez aux jeunes les multiples causes du terrorisme, telles que la pauvreté, la marginalisation, les conflits communautaires et religieux, et encouragez-les à approfondir leur compréhension de ces problèmes pour mieux les résoudre."
+                "title": "Lutter contre la pauvreté, prévenir les conflits : atténuer les causes de l’extrémisme violent",
+                "content": "Expliquez aux jeunes les multiples causes de l’extrémisme violent, telles que la pauvreté, la marginalisation, les conflits communautaires et religieux, et encouragez-les à approfondir leur compréhension de ces problèmes pour mieux les résoudre."
             },
             {
                 "id": 2,
@@ -77,13 +77,13 @@
             },
             {
                 "id": 3,
-                "title": "Attention aux manipulations et recrutement de jeunes sur l’internet",
+                "title": "Faire attention aux manipulations et recrutement de jeunes sur l’internet",
                 "content": "Informez-les sur les tactiques de recrutement en ligne utilisées par les groupes d’extrémisme violent et terroristes. Encouragez la vigilance et la sensibilisation aux dangers des discours extrémistes sur Internet."
             },
             {
                 "id": 4,
-                "title": "Respect des droits de l'homme",
-                "content": "Mettez en avant l'importance du respect des droits de l'homme dans la prévention du terrorisme. Les jeunes doivent comprendre que le recours à la violence va à l'encontre des principes fondamentaux de la dignité humaine. Ils doivent apprendre à échanger sur leurs croyances et apprendre à respecter les convictions d'autrui."
+                "title": "Promouvoir le respect des droits de l'homme",
+                "content": "Mettez en avant l'importance du respect des droits de l'homme dans la prévention de l’extrémisme violent. Les jeunes doivent comprendre que le recours à la violence va à l'encontre des principes fondamentaux de la dignité humaine. Ils doivent apprendre à échanger sur leurs croyances et apprendre à respecter les convictions d'autrui."
             },
             {
                 "id": 5,
@@ -97,8 +97,7 @@
             },
             {
                 "id": 7,
-                "title": "S’engager dans des activités communautaire",
-                "content": "Encouragez les jeunes à s'impliquer dans des projets communautaires de prévention du terrorisme même après la compétition. Cela pourrait inclure des actions de sensibilisation et d'éducation dans leur communauté."
+                "title": "Encouragez les jeunes à s'impliquer dans des projets communautaires de prévention de l’extrémisme violent même après la compétition. Cela pourrait inclure des actions de sensibilisation et d'éducation dans leur communauté."
             },
             {
                 "id": 8,
@@ -108,7 +107,7 @@
             {
                 "id": 9,
                 "title": "Continuer la sensibilisation autour de soi même après la compétition",
-                "content": "Planifiez des campagnes de sensibilisation continues après l'événement, utilisant les médias sociaux et d'autres canaux pour maintenir l'engagement des jeunes dans la lutte contre le terrorisme."
+                "content": "Planifiez des campagnes de sensibilisation continues après l'événement, utilisant les médias sociaux et d'autres canaux pour maintenir l'engagement des jeunes dans la lutte contre l’extrémisme violent."
             },
             {
                 "id": 10,
@@ -119,7 +118,7 @@
     },
     {
         "id": 3,
-        "texte": "la lutte contre la pollution plastique",
+        "texte": "Lutte contre la pollution plastique",
         "icon": "biohazard",
         "image": "/images/logo-zero-plastique.png",
         "content": "Promouvoir la lutte contre la pollution plastique chez les jeunes lors d'une compétition sportive est une excellente initiative. En intégrant des règles dans le cadre de la compétition sportive que représente la CAN 2023, on peut créer une sensibilisation positive et encourager les jeunes à adopter des comportements respectueux de l'environnement tout en promouvant une communauté sportive responsable.",
@@ -131,7 +130,7 @@
             },
             {
                 "id": 2,
-                "title": "Rappeler que l’usage excessif du plastique est un problème mondial et présenter les alternatives écologiques",
+                "title": "Informer qu’il n’est bon d’utiliser les bouteilles plastique à usage unique sur le terrain et qu’il faut les remplacer par des gourdes réutilisables",
                 "content": "Faites-leur prendre conscience que la pollution plastique est un problème mondial qui nécessite une action collective. Montrez-leur des exemples de communautés et de jeunes du monde entier qui œuvrent pour réduire leur empreinte plastique. Présentez-leur des alternatives écologiques aux produits en plastique, comme les sacs réutilisables, les emballages biodégradables et les articles de toilette sans plastique. Encouragez-les à explorer ces options dans leur vie quotidienne."
             },
             {
@@ -161,12 +160,12 @@
             },
             {
                 "id": 7,
-                "title": "Le plastique, c’est au moins 10 ans de pollution",
+                "title": "Informer que le plastique, c’est au moins 10 ans de pollution",
                 "content": "Informez-les sur la durée de décomposition du plastique, qui peut s'étendre sur des centaines d'années. Cela signifie que chaque morceau de plastique que nous utilisons aujourd'hui aura un impact sur l'environnement pendant une période extrêmement longue."
             },
             {
                 "id": 8,
-                "title": "Les microplastiques contaminent les poissons et vos enfants",
+                "title": "Informer que le plastique est dangereux pour la biodiversité et les personnes",
                 "content": "Parlez-leur des microplastiques, de minuscules particules de plastique qui se forment à partir de la dégradation des déchets plastiques plus importants. Ces particules peuvent contaminer les océans et pénétrer la chaîne alimentaire, affectant finalement la santé humaine."
             },
             {
@@ -176,14 +175,14 @@
             },
             {
                 "id": 10,
-                "title": "Sensibiliser et promouvoir les initiatives locales",
+                "title": "Engageons-nous tous contre la pollution plastique",
                 "content": "Rappelez-leur que chaque action individuelle compte. Encouragez-les à adopter des habitudes de vie plus durables, à sensibiliser leur entourage et à devenir des défenseurs actifs de la protection de l'environnement."
             }
         ]
     },
     {
         "id": 4,
-        "texte": "la lutte contre les violences basées sur le genre (VBG)",
+        "texte": "Lutte contre les violences basées sur le genre (VBG)",
         "icon": "genre",
         "image": "/images/logo-zero-vbg.png",
         "content": "Pour informer les jeunes sur les Violences Basées sur le Genre (VBG) ainsi que sur leurs droits sexuels et reproductifs, il est essentiel de fournir des informations claires, accessibles et adaptées à leur niveau de compréhension. La lutte contre les Violences Basées sur le Genre (VBG) est cruciale pour promouvoir l'égalité, la sécurité et le bien-être des jeunes.",

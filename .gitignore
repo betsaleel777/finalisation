@@ -6,7 +6,7 @@
 .cache
 resources
 android
-=
+=*
 dist
 
 # Node dependencies

@@ -20,7 +20,7 @@ useBackButton(-1, () => {
         ></ion-back-button>
         <ion-back-button v-else text="" color="warning"></ion-back-button>
       </ion-buttons>
-      <ion-title color="warning">Bénévolecan2023</ion-title>
+      <ion-title color="warning">BénévolesCAN</ion-title>
     </ion-toolbar>
   </ion-header>
 </template>

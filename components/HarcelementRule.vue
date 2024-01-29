@@ -13,7 +13,7 @@ const props = defineProps<{ rule: HarcelementRule }>();
   <ion-card color="light" class="carte">
     <ion-card-content class="card-content" v-if="props.rule.id === 4">
       <p class="ion-text-justify rule-text">
-        <ion-text>
+        <ion-text class="read-font">
           Si tu es témoin de harcèlement et que tu te sens en sécurité, n’hésite pas à intervenir avec l’une
           des méthodes contre le harcèlement de rue ci-dessous.
           <ol start="1">
@@ -45,7 +45,7 @@ const props = defineProps<{ rule: HarcelementRule }>();
     </ion-card-content>
     <ion-card-content class="card-content" v-else-if="props.rule.id === 5">
       <p class="ion-text-justify rule-text">
-        <ion-text>
+        <ion-text class="read-font">
           Se taire, c’est laisser faire: <br />
           Il est possible de trouver de l’aide et de signaler les cas, avec les moyens suivants:
           <ul>
@@ -58,7 +58,7 @@ const props = defineProps<{ rule: HarcelementRule }>();
     </ion-card-content>
     <ion-card-content class="card-content" v-else>
       <p class="ion-text-justify rule-text">
-        <ion-text>
+        <ion-text class="read-font">
           {{ props.rule.content }}
         </ion-text>
       </p>
@@ -70,6 +70,9 @@ const props = defineProps<{ rule: HarcelementRule }>();
 </template>
 
 <style scoped>
+.read-font {
+  font-family: "Merriweather";
+}
 .thematique-image {
   display: flex;
   align-items: center;
@@ -96,6 +99,8 @@ ion-card {
 .titre {
   margin-bottom: 0px;
   padding-inline: 15px;
+  font-family: "Poppins";
+  font-weight: 500;
 }
 .rule-text {
   font-size: medium;
