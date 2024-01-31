@@ -1,7 +1,13 @@
 <template>
   <LayoutComponent>
     <ion-content :fullscreen="true">
+      <div class="image-top">
+        <ion-img src="/images/sprite2.png"></ion-img>
+      </div>
       <ThematiqueListComponent />
+      <div class="image-bottom">
+        <ion-img src="/images/sprite1.png"></ion-img>
+      </div>
       <ion-row class="ion-justify-content-center">
         <ion-col size="10">
           <ion-text color="dark">
@@ -44,9 +50,5 @@ ion-img {
 .image-pnud {
   height: 55px;
   width: 100%;
-}
-ion-content {
-  --background: var(--ion-color-light) url("/images/benevole-can-logo.png") no-repeat center center / cover;
-  position: relative;
 }
 </style>

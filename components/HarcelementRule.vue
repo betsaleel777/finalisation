@@ -65,7 +65,21 @@ const props = defineProps<{ rule: HarcelementRule }>();
     </ion-card-content>
   </ion-card>
   <div class="thematique-image">
-    <ion-img src="/images/logo-vbg.png"></ion-img>
+    <ion-img 
+   v-motion
+        :initial="{
+          y: 100,
+          opacity: 0,
+        }"
+        :enter="{
+          y: 0,
+          opacity: 1,
+          transition: {
+            duration: 400,
+            type: 'keyframes',
+            ease: 'easeOut',
+          },
+        }" src="/images/logo-vbg.png"></ion-img>
   </div>
 </template>
 

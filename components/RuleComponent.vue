@@ -21,7 +21,17 @@ const thematique = useThematique();
     </ion-card-content>
   </ion-card>
   <div class="thematique-image">
-    <ion-img :src="thematique.image"></ion-img>
+    <ion-img    
+  v-motion
+  :initial="{
+    opacity: 0,
+    y: 100,
+  }"
+  :enter="{
+    opacity: 1,
+    y: 0,
+  }"
+ :src="thematique.image"></ion-img>
   </div>
 </template>
 
